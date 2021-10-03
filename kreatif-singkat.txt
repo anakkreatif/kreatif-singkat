@@ -1,6 +1,6 @@
 kreasi kreatif singkat
 - mempelajari GIT & GitHub
-- mempelajari bahasa pemrograman dasar Python dalam 2 minggu ini
 - mempelajari bahasa pemrograman Javascript
 - mempelajari bahasa Python untuk AI
 - mempelajari bahasa R
+- mempelajari framework Anaconda
